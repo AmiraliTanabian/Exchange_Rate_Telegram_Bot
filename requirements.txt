@@ -1,0 +1,2 @@
+telebot
+beautifulsoup4
