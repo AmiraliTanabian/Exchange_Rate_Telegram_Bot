@@ -10,4 +10,5 @@ clone https://github.com/AmiraliTanabian/Exchange_Rate_Telegram_Bot
 ```
 4- Go to "Exchange_Rate_Telegram_Bot" and open main.py with code editor <br>
 5- Enter the Token where you receive it on BotFather instead of value on "Token" var <br>
-6- run <b>main.py</b> and enter <b>/start</b> in bot to see result 
+6- install moudles with ```pip install -r requirements.txt``` <br>
+7- run <b>main.py</b> and enter <b>/start</b> in bot to see result <br> 
